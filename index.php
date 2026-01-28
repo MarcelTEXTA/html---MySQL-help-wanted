@@ -1,6 +1,7 @@
+<?php
+
 // ce code php est l'exemple pour se connecter au serveur pour la base de donnée et permet s'afficher du html
 
-<?php
 $servername = "localhost";
 $username = "fourtt209"; 
 $password = "ZV753"; 
